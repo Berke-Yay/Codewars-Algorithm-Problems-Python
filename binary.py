@@ -2,7 +2,7 @@ from unittest import result
 
 
 def add_binary(a,b):
-    #your code here
+    #This function needs to return the binary value of sum of two integers that are given as input.
     result_reverse =""
     result=""
     sum = a+b
